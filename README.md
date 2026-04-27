@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
+I'm a full-stack developer and a final-year Software Engineering student with a strong interest in building scalable, user-focused applications. I enjoy working on all types of development projects and I am looking to expand my technical skills through hands-on experience. I want to learn, collaborate, and take on new challenges that help me grow as a developer.
 
-**toffku/toffku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://www.linkedin.com/in/kristoff-urcia"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" /></a>
+  <a href="mailto:kristoffurcia.ku@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Languages and Tools
+
+<p>
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=ts,js,java,spring,dotnet,firebase,react,py,git,nextjs,nodejs,postgres"
+    />
+  </a>
+</p>
 
