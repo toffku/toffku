@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a full-stack developer and final-year Software Engineering student. I enjoy working on all types of development projects and I am looking to expand my technical skills through hands-on experience. I want to learn, collaborate, and take on new challenges that help me grow as a developer.
+I enjoy working on all types of development projects and I am looking to expand my technical skills through hands-on experience. I want to learn, collaborate, and take on new challenges that help me grow as a developer.
 
 ### Connect with me
 
