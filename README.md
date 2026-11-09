@@ -1,21 +1,12 @@
-# Hi there 👋
+A dev who still writes code sometimes. Always keen to learn, collaborate with others, and take on new projects that challenge me.
 
-I enjoy working on all types of development projects and I am looking to expand my technical skills through hands-on experience. I want to learn, collaborate, and take on new challenges that help me grow as a developer.
-
-### Connect with me
+## Say hi 👋
 
 <p>
-  <a href="https://www.linkedin.com/in/kristoff-urcia"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" /></a>
-  <a href="mailto:kristoffurcia.ku@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge" /></a>
-</p>
-
-### Languages and Tools
-
-<p>
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=ts,js,java,spring,dotnet,firebase,react,py,git,nextjs,nodejs,postgres"
-    />
-  </a>
+  <a href="https://www.linkedin.com/in/kristoff-urcia">LinkedIn</a>
+  |
+  <a href="mailto:kristoffurcia.ku@gmail.com">Email</a>
+  |
+  <a href="https://www.toffku.dev/">Portfolio</a>
 </p>
 
